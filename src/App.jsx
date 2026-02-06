@@ -56,7 +56,7 @@ export default function App() {
             >
               <FiUser className="text-xl text-[#424551] group-hover:text-[#FF4242]" />
               <span className="text-[#424551] font-bold text-sm group-hover:text-[#FF4242]">
-                Log in / Register
+                Log in / Register!
               </span>
             </div>
 
