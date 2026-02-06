@@ -24,7 +24,7 @@ export default function Aboutus2() {
                 {course.label}
               </span>
               <p className="mt-3 md:mt-4 text-gray-500 text-sm leading-relaxed">
-                Odio posuere netus quisque faucibus lectus arcu donec. Eget dictum eu viverra faucibus. Viverra scelerisque consequat.
+                Odio posuere netus quisque faucibus lectus arcu donec, Eget dictum eu viverra faucibus. Viverra scelerisque consequat
               </p>
               <button className="mt-4 md:mt-6 flex items-center text-xs md:text-[13px] font-bold text-slate-800 hover:text-red-500 transition-colors group">
                 Check courses <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
@@ -47,7 +47,7 @@ export default function Aboutus2() {
         <div className="flex-1 w-full">
           <span className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em]">Studying Process</span>
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-black text-slate-900 mt-3 mb-8 md:mb-12 lg:mb-16">
-            That's how we do it
+            That's how we do it!
           </h2>
           
           {/* Vertikal Timeline Steplar */}

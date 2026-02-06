@@ -8,7 +8,7 @@ export default function AboutUs1() {
         <div>
           <p className="text-sm text-gray-400 uppercase mb-2">About us</p>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 md:mb-6">
-            Creatx Online School
+            Creatx Online School.
           </h1>
 
           <p className="text-gray-600 mb-4 md:mb-6 leading-relaxed">
