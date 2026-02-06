@@ -34,7 +34,7 @@ export default function Aboutus2() {
         ))}
 
         {/* Bo'sh Kartochka (Coming Soon) */}
-        <div className="bg-gray-50 rounded-xl border-2 border-dashed border-gray-200 flex items-center justify-center p-8 md:p-12 text-center min-h-[200px]">
+        <div className="bg-gray-50 rounded-xl border-2 border-dashed border-gray-200 flex items-center justify-center p-8 md:p-12 text-center min-h-50">
           <p className="text-gray-700 font-bold leading-tight text-sm md:text-base">
             New studying program<br />coming soon...
           </p>
@@ -60,7 +60,7 @@ export default function Aboutus2() {
             ].map((item, idx) => (
               <div key={idx} className="relative pl-8 md:pl-10 pb-8 md:pb-12 border-l-2 border-gray-100 last:border-0 last:pb-0">
                 {/* Qizil nuqta */}
-                <div className="absolute -left-[5px] md:-left-[6px] top-1 w-2 h-2 md:w-2.5 md:h-2.5 bg-red-500 rounded-full shadow-[0_0_0_3px_white] md:shadow-[0_0_0_4px_white]"></div>
+                <div className="absolute -left-1.25 md:-left-1.5 top-1 w-2 h-2 md:w-2.5 md:h-2.5 bg-red-500 rounded-full shadow-[0_0_0_3px_white] md:shadow-[0_0_0_4px_white]"></div>
                 
                 <span className="text-[10px] font-bold text-gray-400 uppercase">Step {item.step}</span>
                 <h4 className="text-base md:text-lg font-extrabold text-slate-800 mt-1">{item.title}</h4>
